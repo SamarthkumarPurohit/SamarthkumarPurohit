@@ -10,13 +10,13 @@
 ## 🚀 About Me
 - 👨‍💻 I enjoy learning new technologies and building real-world projects.
 - 🌱 Currently sharpening my Java and problem-solving skills.
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/samarthkumar-purohit) *(replace with your link)*
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/samarthkumar-purohit-76417b281/)
 
 ## 💡 Quote I Like
 > “The best way to predict the future is to invent it.” – Alan Kay
 
 ## 📈 GitHub Stats
-![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarthkumarPurohit)
 
 ## 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
