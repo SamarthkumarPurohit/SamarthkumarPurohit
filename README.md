@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Samarthkumar Purohit
 
-🎓 Computer Science & Engineering Student at Parul University  
+🎓 Computer Science & Engineering Student  
 💻 Passionate about programming and tech  
 📌 Known programming languages: Python, C  
 📚 Currently exploring Java  
